@@ -29,6 +29,6 @@ Start the lab flow by pointing at `./alchvoice`URL, the output table will show a
 ![alch_image_to_speech_screenshot](images/alchvis_image_to_speech_screenshot.png)
 
 
-Another Example of the same with deployed image recognition ![node-red-image-analysis-hollywood.png](node-red-image-analysis-hollywood.png)
+Another Example of the same with deployed image recognition ![node-red-image-analysis-hollywood.png](images/node-red-image-analysis-hollywood.png)
 
 The completed flow is available at [alchvis_image_to_speech.json](alchvis_image_to_speech.json)
