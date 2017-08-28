@@ -1,4 +1,4 @@
-**This is a forked repository and contains my personal Node-RED projects as well which were developed under the IBM Bluemix Cloud Foundary apps projects.
+**This is a forked repository and contains my personal Node-RED projects as well which were developed under the IBM Bluemix Cloud Foundary apps projects.**
 
 # Watson-Node-Red-examples
 
