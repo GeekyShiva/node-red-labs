@@ -1,3 +1,5 @@
+**This is a forked repository and contains my personal Node-RED projects as well which were developed under the IBM Bluemix Cloud Foundary apps projects.
+
 # Watson-Node-Red-examples
 
 Collection of examples on how to use the Watson nodes in [Node-RED](http://nodered.org/) (Basic and advanced labs). The basic labs are simple standalone examples of how to call each individual Watson Node-RED nodes and the advanced labs are where different Watson Node-RED nodes are combined to create more complex applications.
